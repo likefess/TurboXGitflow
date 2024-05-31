@@ -1,0 +1,13 @@
+*.[~]*
+*.#acc
+*.#cod
+*.#hlp
+*.#mtl
+*.#prj
+*.nfo
+*.bkpx
+*.jpg
+*.svg
+*.png
+*.htm
+*.html
